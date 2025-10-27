@@ -1,4 +1,4 @@
-# 💼 Escrow Stack – Assignment 1
+# 💼EazyPayouts Load Screen– Assignment 1
 
 ## 🪙 EazyPayouts Load Screen
 
