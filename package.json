@@ -1,5 +1,9 @@
 {
+<<<<<<< HEAD
   "name": "escrow-stack-assignment-1",
+=======
+  "name": "assignment-2",
+>>>>>>> 2c23b181e36218e6920b1dab74de7a2a188ebe6f
   "version": "0.1.0",
   "private": true,
   "dependencies": {
