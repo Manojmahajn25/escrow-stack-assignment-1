@@ -1,8 +1,8 @@
-# Escrow Stack – Assignment 2
+# Escrow Stack – Assignment 1
 
 ## 📊 Stock Broker Dashboard (API Simulation)
 
-This project is part of Escrow Stack’s Developer Assignment 2.  
+This project is part of Escrow Stack’s Developer Assignment 1.  
 It is a React-based dashboard showing **live-updating stock prices** for multiple companies using a simulated API.
 
 ---
